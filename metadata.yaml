@@ -1,0 +1,39 @@
+_repo: Tamburlaine-the-Great---Part-2_1589
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marlowe, Christopher
+    aliases:
+    - Marlo, Christopher
+    - Marlow, Christopher
+    - Marloe, Christopher
+    birthdate: 1564
+    deathdate: 1593
+    gutenberg_agent_id: '410'
+    url: http://www.gutenberg.org/2009/agents/410
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Marlowe
+  editor:
+    agent_name: Dyce, Alexander
+    birthdate: 1798
+    deathdate: 1869
+    gutenberg_agent_id: '5689'
+    url: http://www.gutenberg.org/2009/agents/5689
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Dyce
+description: ''
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1589'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Timur, 1336-1405 -- Drama'
+- !lcsh 'Historical drama'
+- !lcc 'PR'
+- !lcsh 'Tragedies'
+- !lcsh 'English drama'
+- GITenberg
+title: Tamburlaine the Great — Part 2
+url: http://www.gutenberg.org/ebooks/1589
